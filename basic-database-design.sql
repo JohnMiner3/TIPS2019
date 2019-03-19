@@ -8,7 +8,7 @@
  *     Purpose:  A sample banking database.
  * 
  ******************************************************/
-
+    
 
 /*  
 	1 - Create a database for banking information
